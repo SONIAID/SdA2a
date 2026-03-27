@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260327102113NGWL8X</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260327102113LLGNTV</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>&quot;Conociéndome y organizándome&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sonia Iglesias Diego</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774603193799</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn8ox7qs-dxb14780b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>&quot;Aprendemos a reconocer nuestras emociones y organizar nuestro día a día&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;Aprendemos a reconocer nuestras emociones y organizar nuestro día a día&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;Aprendemos a reconocer nuestras emociones y organizar nuestro día a día&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>&quot;Aprendemos a reconocer nuestras emociones y organizar nuestro día a día&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7qs-dxb14780b</odePageId>
+      <odeBlockId>block-1774430882396-mntdq76qk</odeBlockId>
+      <blockName>Descripción de la SdA</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7qs-dxb14780b</odePageId>
+          <odeBlockId>block-1774430882396-mntdq76qk</odeBlockId>
+          <odeIdeviceId>idevice-1774430882389-nhqra5243</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje está dirigida al alumnado del instituto que presenta necesidades específicas de apoyo educativo, con la intención educativa de ayudarle a identificar emociones, expresar sus sentimientos y organizar su día de manera sencilla, fomentando autonomía y autoestima.</p>
+<ul>
+<li><strong>Etapa y nivel: </strong></li>
+</ul>
+<p>Educación Secundaria Obligatoria (ESO), alumnado con Necesidades Específicas de Apoyo Educativo (NEAE).</p>
+<ul>
+<li><strong>Áreas implicadas: </strong></li>
+</ul>
+<p>Tutoría / Orientación educativa y Competencia digital<br /></p>
+<ul>
+<li><strong>Agrupamientos y organización espacial:</strong></li>
+</ul>
+<p>Trabajo individual (reflexión emocional)<br />Trabajo en parejas (podcast)<br />Pequeño grupo (infografía)<br /><br /></p>
+<ul>
+<li><strong>Temporalización:</strong></li>
+</ul>
+<p>3 sesiones de 45 minutos<br /></p>
+<ul>
+<li><strong>Productos finales del alumnado:</strong></li>
+</ul>
+<p>Podcast breve con consejos emocionales<br />Infografía visual con estrategias para el bienestar<br />Horario visual personalizado<br /></p>
+<ul>
+<li><strong>Herramientas tecnológicas:</strong></li>
+</ul>
+<p>Canva (infografía)<br />Grabadora móvil o tablet (podcast)<br />eXeLearning (presentación)<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774430882389-nhqra5243","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje está dirigida al alumnado del instituto que presenta necesidades específicas de apoyo educativo, con la intención educativa de ayudarle a identificar emociones, expresar sus sentimientos y organizar su día de manera sencilla, fomentando autonomía y autoestima.</p>\n<ul>\n<li><strong>Etapa y nivel: </strong></li>\n</ul>\n<p>Educación Secundaria Obligatoria (ESO), alumnado con Necesidades Específicas de Apoyo Educativo (NEAE).</p>\n<ul>\n<li><strong>Áreas implicadas: </strong></li>\n</ul>\n<p>Tutoría / Orientación educativa y Competencia digital<br /></p>\n<ul>\n<li><strong>Agrupamientos y organización espacial:</strong></li>\n</ul>\n<p>Trabajo individual (reflexión emocional)<br />Trabajo en parejas (podcast)<br />Pequeño grupo (infografía)<br /><br /></p>\n<ul>\n<li><strong>Temporalización:</strong></li>\n</ul>\n<p>3 sesiones de 45 minutos<br /></p>\n<ul>\n<li><strong>Productos finales del alumnado:</strong></li>\n</ul>\n<p>Podcast breve con consejos emocionales<br />Infografía visual con estrategias para el bienestar<br />Horario visual personalizado<br /></p>\n<ul>\n<li><strong>Herramientas tecnológicas:</strong></li>\n</ul>\n<p>Canva (infografía)<br />Grabadora móvil o tablet (podcast)<br />eXeLearning (presentación)<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+  <odeParentPageId>page-mn8ox7qs-dxb14780b</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+      <odeBlockId>block-1774431800256-v3002dyjb</odeBlockId>
+      <blockName>Justificación de su desarrollo</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+          <odeBlockId>block-1774431800256-v3002dyjb</odeBlockId>
+          <odeIdeviceId>idevice-1774431800252-1tfar5x6f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje surge de la necesidad de mejorar la identificación emocional y la organización personal en alumnado con NEE, favoreciendo su autonomía y bienestar.</p>
+<p>La presente situación de aprendizaje se diseña desde el <em>ámbito de la orientación educativa</em> con la <strong>finalidad </strong>de <em>dar respuesta a las necesidades detectadas en el alumnado en relación con la identificación, comprensión y expresión de sus emociones, así como con la adquisición de hábitos básicos de organización personal y académica.</em></p>
+<p>En el contexto escolar actual, se observa que parte del alumnado, especialmente aquel con necesidades educativas especiales, presenta dificultades para reconocer sus estados emocionales, regular sus conductas y planificar adecuadamente sus tareas cotidianas. Estas dificultades pueden repercutir negativamente en su bienestar personal, en sus relaciones sociales y en su rendimiento académico.</p>
+<p>Por ello, resulta necesario desarrollar propuestas educativas estructuradas y accesibles que favorezcan el aprendizaje de competencias socioemocionales y de autonomía personal, proporcionando apoyos visuales, instrucciones claras y actividades significativas que permitan al alumnado participar activamente en su propio proceso de aprendizaje.</p>
+<ul></ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774431800252-1tfar5x6f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje surge de la necesidad de mejorar la identificación emocional y la organización personal en alumnado con NEE, favoreciendo su autonomía y bienestar.</p>\n<p>La presente situación de aprendizaje se diseña desde el <em>ámbito de la orientación educativa</em> con la <strong>finalidad </strong>de <em>dar respuesta a las necesidades detectadas en el alumnado en relación con la identificación, comprensión y expresión de sus emociones, así como con la adquisición de hábitos básicos de organización personal y académica.</em></p>\n<p>En el contexto escolar actual, se observa que parte del alumnado, especialmente aquel con necesidades educativas especiales, presenta dificultades para reconocer sus estados emocionales, regular sus conductas y planificar adecuadamente sus tareas cotidianas. Estas dificultades pueden repercutir negativamente en su bienestar personal, en sus relaciones sociales y en su rendimiento académico.</p>\n<p>Por ello, resulta necesario desarrollar propuestas educativas estructuradas y accesibles que favorezcan el aprendizaje de competencias socioemocionales y de autonomía personal, proporcionando apoyos visuales, instrucciones claras y actividades significativas que permitan al alumnado participar activamente en su propio proceso de aprendizaje.</p>\n<ul></ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+      <odeBlockId>block-1774432158979-gvu5hi08i</odeBlockId>
+      <blockName>Impacto esperado</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+          <odeBlockId>block-1774432158979-gvu5hi08i</odeBlockId>
+          <odeIdeviceId>idevice-1774432158975-r2666myyj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de esta situación de aprendizaje se pretende que el alumnado:</p>
+<p>- Mejore su capacidad para identificar y nombrar sus emociones.<br />- Desarrolle estrategias básicas de autorregulación emocional.<br />- Adquiera herramientas sencillas para organizar su tiempo y sus tareas.<br />- Aumente su autoestima y percepción de autoeficacia al comprobar que es capaz de expresar sus ideas y producir materiales propios como un podcast o una infografía.</p>
+<p><br /><em>Se espera que estos aprendizajes tengan una repercusión positiva tanto en el clima de aula como en la convivencia, favoreciendo relaciones más respetuosas y una mayor implicación del alumnado en las actividades escolares.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432158975-r2666myyj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de esta situación de aprendizaje se pretende que el alumnado:</p>\n<p>- Mejore su capacidad para identificar y nombrar sus emociones.<br />- Desarrolle estrategias básicas de autorregulación emocional.<br />- Adquiera herramientas sencillas para organizar su tiempo y sus tareas.<br />- Aumente su autoestima y percepción de autoeficacia al comprobar que es capaz de expresar sus ideas y producir materiales propios como un podcast o una infografía.</p>\n<p><br /><em>Se espera que estos aprendizajes tengan una repercusión positiva tanto en el clima de aula como en la convivencia, favoreciendo relaciones más respetuosas y una mayor implicación del alumnado en las actividades escolares.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+      <odeBlockId>block-1774432428525-05ckh31qn</odeBlockId>
+      <blockName>Objetivos de Desarrollo Sostenible (ODS)</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+          <odeBlockId>block-1774432428525-05ckh31qn</odeBlockId>
+          <odeIdeviceId>idevice-1774432428519-6ym527bbb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ODS 3: Salud y bienestar</strong>, al promover el desarrollo de habilidades emocionales que contribuyen al equilibrio psicológico y a la mejora de la calidad de vida del alumnado.<br /><strong>ODS 4: Educación de calidad,</strong> al garantizar una educación inclusiva y equitativa que atiende a la diversidad del alumnado, proporcionando recursos y metodologías adaptadas a sus necesidades.<br /></p>
+<p>La inclusión de estos objetivos permite situar la práctica educativa en un marco global, fomentando en el alumnado la conciencia de que el bienestar emocional y la educación inclusiva son aspectos fundamentales para el desarrollo personal y social.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432428519-6ym527bbb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ODS 3: Salud y bienestar</strong>, al promover el desarrollo de habilidades emocionales que contribuyen al equilibrio psicológico y a la mejora de la calidad de vida del alumnado.<br /><strong>ODS 4: Educación de calidad,</strong> al garantizar una educación inclusiva y equitativa que atiende a la diversidad del alumnado, proporcionando recursos y metodologías adaptadas a sus necesidades.<br /></p>\n<p>La inclusión de estos objetivos permite situar la práctica educativa en un marco global, fomentando en el alumnado la conciencia de que el bienestar emocional y la educación inclusiva son aspectos fundamentales para el desarrollo personal y social.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+      <odeBlockId>block-1774432513088-xkrm3cpsy</odeBlockId>
+      <blockName>Retos del siglo XXI</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r2-yt12d15yc</odePageId>
+          <odeBlockId>block-1774432513088-xkrm3cpsy</odeBlockId>
+          <odeIdeviceId>idevice-1774432513084-e3rao9qnu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>desarrollo de la educación emocional</strong> como elemento clave para el bienestar y la convivencia.</p>
+<p>La necesidad de <strong>potenciar la competencia digital</strong>, mediante la creación de productos como podcasts e infografías, que implican el uso responsable y creativo de herramientas tecnológicas.</p>
+<p>El <strong>fomento de la autonomía personal y la capacidad de aprender a aprender,</strong> esenciales para que el alumnado pueda desenvolverse de manera eficaz en contextos cambiantes y complejos.</p>
+<p>Asimismo, se promueve la <strong>participación activa del alumnado en tareas que requieren reflexión, comunicación y colaboración,</strong> aspectos fundamentales para su futura integración social y laboral.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432513084-e3rao9qnu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>desarrollo de la educación emocional</strong> como elemento clave para el bienestar y la convivencia.</p>\n<p>La necesidad de <strong>potenciar la competencia digital</strong>, mediante la creación de productos como podcasts e infografías, que implican el uso responsable y creativo de herramientas tecnológicas.</p>\n<p>El <strong>fomento de la autonomía personal y la capacidad de aprender a aprender,</strong> esenciales para que el alumnado pueda desenvolverse de manera eficaz en contextos cambiantes y complejos.</p>\n<p>Asimismo, se promueve la <strong>participación activa del alumnado en tareas que requieren reflexión, comunicación y colaboración,</strong> aspectos fundamentales para su futura integración social y laboral.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+  <odeParentPageId>page-mn8ox7qs-dxb14780b</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+      <odeBlockId>block-1774432690961-vrpeic6bp</odeBlockId>
+      <blockName>Competencias clave (Descriptores operativos/perfil de salida)</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+          <odeBlockId>block-1774432690961-vrpeic6bp</odeBlockId>
+          <odeIdeviceId>idevice-1774432690948-cpqv7hlcw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Competencia en comunicación lingüística (CCL):</strong></li>
+</ul>
+<p>Se favorece a través de la expresión oral en la elaboración del podcast y la expresión escrita y visual en la creación de la infografía, permitiendo al alumnado comunicar ideas, emociones y experiencias de forma comprensible y adaptada a su nivel.</p>
+<ul>
+<li><strong>Competencia personal, social y de aprender a aprender (CPSAA):</strong></li>
+</ul>
+<p>Constituye el eje central de la situación de aprendizaje, al promover el autoconocimiento, la identificación y regulación de emociones, así como la adquisición de estrategias básicas de organización y planificación del trabajo personal.</p>
+<ul>
+<li><strong>Competencia digital (CD):</strong></li>
+</ul>
+<p>Se desarrolla mediante el uso de herramientas digitales sencillas y accesibles para la creación de productos (podcast e infografía), fomentando un uso guiado, responsable y creativo de la tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432690948-cpqv7hlcw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Competencia en comunicación lingüística (CCL):</strong></li>\n</ul>\n<p>Se favorece a través de la expresión oral en la elaboración del podcast y la expresión escrita y visual en la creación de la infografía, permitiendo al alumnado comunicar ideas, emociones y experiencias de forma comprensible y adaptada a su nivel.</p>\n<ul>\n<li><strong>Competencia personal, social y de aprender a aprender (CPSAA):</strong></li>\n</ul>\n<p>Constituye el eje central de la situación de aprendizaje, al promover el autoconocimiento, la identificación y regulación de emociones, así como la adquisición de estrategias básicas de organización y planificación del trabajo personal.</p>\n<ul>\n<li><strong>Competencia digital (CD):</strong></li>\n</ul>\n<p>Se desarrolla mediante el uso de herramientas digitales sencillas y accesibles para la creación de productos (podcast e infografía), fomentando un uso guiado, responsable y creativo de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+      <odeBlockId>block-1774432814434-obrnnytrk</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+          <odeBlockId>block-1774432814434-obrnnytrk</odeBlockId>
+          <odeIdeviceId>idevice-1774432814428-owalryl7p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el marco de la orientación educativa y la acción tutorial, se trabajan las siguientes competencias específicas:</p>
+<ul style="list-style-type: square;">
+<li>Desarrollar la capacidad de identificar, expresar y gestionar emociones en diferentes situaciones del contexto personal y escolar.</li>
+<li>Adquirir estrategias básicas de organización del tiempo y de las tareas, favoreciendo la autonomía en el aprendizaje.</li>
+<li>Utilizar diferentes formas de comunicación (oral, visual y digital) para expresar ideas, experiencias y aprendizajes de manera ajustada a sus posibilidades.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432814428-owalryl7p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el marco de la orientación educativa y la acción tutorial, se trabajan las siguientes competencias específicas:</p>\n<ul style=\"list-style-type: square;\">\n<li>Desarrollar la capacidad de identificar, expresar y gestionar emociones en diferentes situaciones del contexto personal y escolar.</li>\n<li>Adquirir estrategias básicas de organización del tiempo y de las tareas, favoreciendo la autonomía en el aprendizaje.</li>\n<li>Utilizar diferentes formas de comunicación (oral, visual y digital) para expresar ideas, experiencias y aprendizajes de manera ajustada a sus posibilidades.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+      <odeBlockId>block-1774432877138-wa3przx5w</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+          <odeBlockId>block-1774432877138-wa3przx5w</odeBlockId>
+          <odeIdeviceId>idevice-1774432877132-xw2zni69u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Educación emocional:</strong></li>
+</ul>
+<p>Identificación de emociones básicas (alegría, tristeza, enfado, calma), expresión de sentimientos y uso de estrategias sencillas de regulación emocional.</p>
+<ul>
+<li><strong>Autonomía y organización personal:</strong></li>
+</ul>
+<p>Planificación de actividades diarias, uso de horarios visuales y establecimiento de rutinas.</p>
+<ul>
+<li><strong>Comunicación y expresión:</strong></li>
+</ul>
+<p>Uso del lenguaje oral para expresar ideas (podcast) y del lenguaje visual para sintetizar información (infografía).</p>
+<ul>
+<li><strong>Competencia digital básica:</strong></li>
+</ul>
+<p>Manejo guiado de herramientas digitales sencillas para la creación de contenidos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774432877132-xw2zni69u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Educación emocional:</strong></li>\n</ul>\n<p>Identificación de emociones básicas (alegría, tristeza, enfado, calma), expresión de sentimientos y uso de estrategias sencillas de regulación emocional.</p>\n<ul>\n<li><strong>Autonomía y organización personal:</strong></li>\n</ul>\n<p>Planificación de actividades diarias, uso de horarios visuales y establecimiento de rutinas.</p>\n<ul>\n<li><strong>Comunicación y expresión:</strong></li>\n</ul>\n<p>Uso del lenguaje oral para expresar ideas (podcast) y del lenguaje visual para sintetizar información (infografía).</p>\n<ul>\n<li><strong>Competencia digital básica:</strong></li>\n</ul>\n<p>Manejo guiado de herramientas digitales sencillas para la creación de contenidos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+      <odeBlockId>block-1774433022086-dq4fs4ux9</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7r7-vdxqm5rep</odePageId>
+          <odeBlockId>block-1774433022086-dq4fs4ux9</odeBlockId>
+          <odeIdeviceId>idevice-1774433022071-4x5c02eze</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><em>Identificar y expresar emociones propias</em> en situaciones cotidianas, utilizando apoyos visuales o verbales según sus necesidades.</li>
+<li><em>Participar en actividades de aula mostrando interés y esfuerzo,</em> colaborando con sus compañeros en tareas grupales o en pareja.</li>
+<li><em>Elaborar producciones sencillas</em> (podcast e infografía) que reflejen ideas básicas relacionadas con el bienestar emocional y la organización personal.</li>
+<li><em>Utilizar herramientas digitales</em> de forma guiada para la creación de contenidos, mostrando una actitud responsable y adecuada.</li>
+<li>Aplicar <em>estrategias básicas de organización</em> del tiempo en la planificación de sus actividades diarias.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433022071-4x5c02eze","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><em>Identificar y expresar emociones propias</em> en situaciones cotidianas, utilizando apoyos visuales o verbales según sus necesidades.</li>\n<li><em>Participar en actividades de aula mostrando interés y esfuerzo,</em> colaborando con sus compañeros en tareas grupales o en pareja.</li>\n<li><em>Elaborar producciones sencillas</em> (podcast e infografía) que reflejen ideas básicas relacionadas con el bienestar emocional y la organización personal.</li>\n<li><em>Utilizar herramientas digitales</em> de forma guiada para la creación de contenidos, mostrando una actitud responsable y adecuada.</li>\n<li>Aplicar <em>estrategias básicas de organización</em> del tiempo en la planificación de sus actividades diarias.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+  <odeParentPageId>page-mn8ox7qs-dxb14780b</odeParentPageId>
+  <pageName>3. Metodología</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+      <odeBlockId>block-1774433241617-7hyf0rncm</odeBlockId>
+      <blockName>Enfoque metodológico</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+          <odeBlockId>block-1774433241617-7hyf0rncm</odeBlockId>
+          <odeIdeviceId>idevice-1774433241608-7yijbclox</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se fundamenta en un enfoque metodológico <strong>activo, inclusivo y centrado en el alumnado</strong>, en el que este adquiere un papel protagonista en su propio proceso de aprendizaje. Desde el ámbito de la orientación educativa, se prioriza el desarrollo de competencias socioemocionales y de autonomía personal mediante experiencias prácticas, significativas y funcionales para su vida cotidiana.</p>
+<p>Se parte de los conocimientos previos del alumnado y de sus experiencias personales, favoreciendo la conexión entre los aprendizajes escolares y su realidad más cercana. Asimismo, se promueve un entorno seguro y estructurado que facilite la participación, la expresión emocional y la interacción positiva entre iguales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433241608-7yijbclox","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se fundamenta en un enfoque metodológico <strong>activo, inclusivo y centrado en el alumnado</strong>, en el que este adquiere un papel protagonista en su propio proceso de aprendizaje. Desde el ámbito de la orientación educativa, se prioriza el desarrollo de competencias socioemocionales y de autonomía personal mediante experiencias prácticas, significativas y funcionales para su vida cotidiana.</p>\n<p>Se parte de los conocimientos previos del alumnado y de sus experiencias personales, favoreciendo la conexión entre los aprendizajes escolares y su realidad más cercana. Asimismo, se promueve un entorno seguro y estructurado que facilite la participación, la expresión emocional y la interacción positiva entre iguales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+      <odeBlockId>block-1774433304435-yfcwe1q2u</odeBlockId>
+      <blockName>Metodologías Activas empleadas</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+          <odeBlockId>block-1774433304435-yfcwe1q2u</odeBlockId>
+          <odeIdeviceId>idevice-1774433304429-z85pdhqgj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Aprendizaje basado en tareas:</strong></li>
+</ul>
+<p>El alumnado aprende a través de la realización de actividades concretas y funcionales, como la elaboración de un podcast o una infografía, que implican la aplicación práctica de los contenidos trabajados.</p>
+<ul>
+<li><strong>Aprendizaje cooperativo:</strong></li>
+</ul>
+<p>Se fomenta el trabajo en parejas y pequeños grupos, favoreciendo la interacción social, la ayuda entre iguales y el desarrollo de habilidades comunicativas.</p>
+<ul>
+<li><strong>Aprendizaje experiencial:</strong></li>
+</ul>
+<p>Las actividades parten de vivencias personales del alumnado, especialmente en lo relacionado con la identificación de emociones y la organización de su día a día, facilitando un aprendizaje más significativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433304429-z85pdhqgj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Aprendizaje basado en tareas:</strong></li>\n</ul>\n<p>El alumnado aprende a través de la realización de actividades concretas y funcionales, como la elaboración de un podcast o una infografía, que implican la aplicación práctica de los contenidos trabajados.</p>\n<ul>\n<li><strong>Aprendizaje cooperativo:</strong></li>\n</ul>\n<p>Se fomenta el trabajo en parejas y pequeños grupos, favoreciendo la interacción social, la ayuda entre iguales y el desarrollo de habilidades comunicativas.</p>\n<ul>\n<li><strong>Aprendizaje experiencial:</strong></li>\n</ul>\n<p>Las actividades parten de vivencias personales del alumnado, especialmente en lo relacionado con la identificación de emociones y la organización de su día a día, facilitando un aprendizaje más significativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+      <odeBlockId>block-1774433455121-hxjl8js87</odeBlockId>
+      <blockName>Aplicación de los principios del Diseño Universal para el Aprendizaje (DUA)</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+          <odeBlockId>block-1774433455121-hxjl8js87</odeBlockId>
+          <odeIdeviceId>idevice-1774433455120-jv57rq72n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La intervención se diseña teniendo en cuenta los <strong>principios del DUA</strong>, con el objetivo de garantizar el acceso, la participación y el aprendizaje de todo el alumnado:</p>
+<ul>
+<li><strong>Múltiples formas de representación:</strong></li>
+</ul>
+<p>Uso de apoyos visuales (pictogramas, imágenes, esquemas), instrucciones claras y ejemplos modelados para facilitar la comprensión de las tareas.</p>
+<ul>
+<li><strong>Múltiples formas de acción y expresión:</strong><br /></li>
+</ul>
+<p>El alumnado puede demostrar su aprendizaje a través de diferentes formatos (oral, visual, manipulativo), como el podcast o la infografía, adaptados a sus capacidades.</p>
+<ul>
+<li><strong>Múltiples formas de implicación:</strong></li>
+</ul>
+<p>Se proponen actividades motivadoras, cercanas a sus intereses y con un alto componente práctico, favoreciendo la participación activa y el compromiso con el aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433455120-jv57rq72n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La intervención se diseña teniendo en cuenta los <strong>principios del DUA</strong>, con el objetivo de garantizar el acceso, la participación y el aprendizaje de todo el alumnado:</p>\n<ul>\n<li><strong>Múltiples formas de representación:</strong></li>\n</ul>\n<p>Uso de apoyos visuales (pictogramas, imágenes, esquemas), instrucciones claras y ejemplos modelados para facilitar la comprensión de las tareas.</p>\n<ul>\n<li><strong>Múltiples formas de acción y expresión:</strong><br /></li>\n</ul>\n<p>El alumnado puede demostrar su aprendizaje a través de diferentes formatos (oral, visual, manipulativo), como el podcast o la infografía, adaptados a sus capacidades.</p>\n<ul>\n<li><strong>Múltiples formas de implicación:</strong></li>\n</ul>\n<p>Se proponen actividades motivadoras, cercanas a sus intereses y con un alto componente práctico, favoreciendo la participación activa y el compromiso con el aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+      <odeBlockId>block-1774433538391-8h58uck39</odeBlockId>
+      <blockName>Organización del aula y atención a la diversidad</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7ra-ypr78p6hn</odePageId>
+          <odeBlockId>block-1774433538391-8h58uck39</odeBlockId>
+          <odeIdeviceId>idevice-1774433538386-bffcy1r5i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utilizarán <strong>diferentes tipos de agrupamientos</strong> (individual, parejas, pequeño grupo), permitiendo ajustar la intervención a las características del alumnado y favorecer tanto la autonomía como la cooperación.</p>
+<p>Se <strong>proporcionarán apoyos</strong> individualizados, como guías paso a paso, plantillas, pictogramas o modelos de ejemplo, adaptando el nivel de exigencia y el ritmo de trabajo a las necesidades específicas del alumnado.</p>
+<p>El d<strong>ocente desempeñará un papel de guía y facilitador,</strong> ofreciendo andamiaje educativo, refuerzos positivos y acompañamiento continuo durante el desarrollo de las actividades.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433538386-bffcy1r5i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizarán <strong>diferentes tipos de agrupamientos</strong> (individual, parejas, pequeño grupo), permitiendo ajustar la intervención a las características del alumnado y favorecer tanto la autonomía como la cooperación.</p>\n<p>Se <strong>proporcionarán apoyos</strong> individualizados, como guías paso a paso, plantillas, pictogramas o modelos de ejemplo, adaptando el nivel de exigencia y el ritmo de trabajo a las necesidades específicas del alumnado.</p>\n<p>El d<strong>ocente desempeñará un papel de guía y facilitador,</strong> ofreciendo andamiaje educativo, refuerzos positivos y acompañamiento continuo durante el desarrollo de las actividades.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+  <odeParentPageId>page-mn8ox7qs-dxb14780b</odeParentPageId>
+  <pageName>4. Vinculación con el centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con el centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con el centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+      <odeBlockId>block-1774433717002-tjatbhql9</odeBlockId>
+      <blockName>Plan de Acción Tutorial (PAT)</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+          <odeBlockId>block-1774433717002-tjatbhql9</odeBlockId>
+          <odeIdeviceId>idevice-1774433716995-ai231cjgv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se enmarca directamente en el <em>Plan de Acción Tutorial</em>, ya que aborda contenidos fundamentales relacionados con la <strong>educación emocional, el autoconocimiento y la mejora de la convivencia.</strong></p>
+<p>A través de las actividades propuestas, se favorece el desarrollo de habilidades personales y sociales, como la identificación y expresión de emociones, la escucha activa y el respeto hacia los demás, contribuyendo a la mejora del clima de aula y al bienestar del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433716995-ai231cjgv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se enmarca directamente en el <em>Plan de Acción Tutorial</em>, ya que aborda contenidos fundamentales relacionados con la <strong>educación emocional, el autoconocimiento y la mejora de la convivencia.</strong></p>\n<p>A través de las actividades propuestas, se favorece el desarrollo de habilidades personales y sociales, como la identificación y expresión de emociones, la escucha activa y el respeto hacia los demás, contribuyendo a la mejora del clima de aula y al bienestar del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+      <odeBlockId>block-1774433776783-mb2reaeu0</odeBlockId>
+      <blockName>Programa de Orientación para el Desarrollo de la Carrera</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+          <odeBlockId>block-1774433776783-mb2reaeu0</odeBlockId>
+          <odeIdeviceId>idevice-1774433776781-l174v7w3i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje contribuye al <strong>desarrollo de competencias vinculadas al conocimiento personal y la toma de decisiones, </strong>aspectos clave dentro del Programa de Orientación para el Desarrollo de la Carrera.</p>
+<p>El trabajo sobre la identificación de emociones, la autoestima y la organización personal constituye una <em>base fundamental para futuros procesos de toma de decisiones académicas y profesionales, favoreciendo una construcción progresiva del proyecto personal del alumnado.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433776781-l174v7w3i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje contribuye al <strong>desarrollo de competencias vinculadas al conocimiento personal y la toma de decisiones, </strong>aspectos clave dentro del Programa de Orientación para el Desarrollo de la Carrera.</p>\n<p>El trabajo sobre la identificación de emociones, la autoestima y la organización personal constituye una <em>base fundamental para futuros procesos de toma de decisiones académicas y profesionales, favoreciendo una construcción progresiva del proyecto personal del alumnado.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+      <odeBlockId>block-1774433828555-kag3zzljd</odeBlockId>
+      <blockName>Plan de Atención a la Diversidad (PAD)</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+          <odeBlockId>block-1774433828555-kag3zzljd</odeBlockId>
+          <odeIdeviceId>idevice-1774433828553-kw7d7bpel</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La propuesta se alinea con las medidas recogidas en el<strong> Plan de Atención a la Diversidad, </strong>al ofrecer una r<strong>espuesta educativa</strong> adaptada a las necesidades del a<strong>lumnado con NEAE</strong> mediante la aplicación de principios de inclusión y accesibilidad universal.</p>
+<p>Se incorporan e<strong>strategias metodológicas basadas en el Diseño Universal para el Aprendizaje (DUA), </strong>así como apoyos específicos (pictogramas, guías, modelado, adaptación de tareas), que permiten la participación activa de todo el alumnado, respetando sus ritmos y estilos de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433828553-kw7d7bpel","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La propuesta se alinea con las medidas recogidas en el<strong> Plan de Atención a la Diversidad, </strong>al ofrecer una r<strong>espuesta educativa</strong> adaptada a las necesidades del a<strong>lumnado con NEAE</strong> mediante la aplicación de principios de inclusión y accesibilidad universal.</p>\n<p>Se incorporan e<strong>strategias metodológicas basadas en el Diseño Universal para el Aprendizaje (DUA), </strong>así como apoyos específicos (pictogramas, guías, modelado, adaptación de tareas), que permiten la participación activa de todo el alumnado, respetando sus ritmos y estilos de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+      <odeBlockId>block-1774433884879-n3jv8frcu</odeBlockId>
+      <blockName>Otros planes y programas del centro</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rd-jqw8gi6an</odePageId>
+          <odeBlockId>block-1774433884879-n3jv8frcu</odeBlockId>
+          <odeIdeviceId>idevice-1774433884878-ftklxyb1g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Asimismo, esta propuesta puede vincularse con otras iniciativas desarrolladas en los institutos, tales como:</p>
+<ul>
+<li><strong>Plan de Convivencia:</strong></li>
+</ul>
+<p>Al fomentar <em>habilidades</em> de regulación emocional, resolución pacífica de conflictos y mejora de las relaciones interpersonales.</p>
+<ul>
+<li><strong>Plan de Competencia Digital:</strong></li>
+</ul>
+<p>Mediante el uso de herramientas digitales para la creación de productos (podcast e infografía), contribuyendo al desarrollo de la competencia digital del alumnado de forma guiada.</p>
+<ul>
+<li><strong>Plan de Igualdad:</strong></li>
+</ul>
+<p>Promoviendo el r<em>espeto, la inclusión y la valoración de la diversidad</em>, así como la expresión emocional libre de estereotipos.</p>
+<ul>
+<li><strong>Programas de bienestar emocional:</strong></li>
+</ul>
+<p>Cada vez más presentes en los centros, esta situación de aprendizaje se alinea con actuaciones dirigidas a la promoción de la s<em>alud mental y el bienestar del alumnado.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774433884878-ftklxyb1g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Asimismo, esta propuesta puede vincularse con otras iniciativas desarrolladas en los institutos, tales como:</p>\n<ul>\n<li><strong>Plan de Convivencia:</strong></li>\n</ul>\n<p>Al fomentar <em>habilidades</em> de regulación emocional, resolución pacífica de conflictos y mejora de las relaciones interpersonales.</p>\n<ul>\n<li><strong>Plan de Competencia Digital:</strong></li>\n</ul>\n<p>Mediante el uso de herramientas digitales para la creación de productos (podcast e infografía), contribuyendo al desarrollo de la competencia digital del alumnado de forma guiada.</p>\n<ul>\n<li><strong>Plan de Igualdad:</strong></li>\n</ul>\n<p>Promoviendo el r<em>espeto, la inclusión y la valoración de la diversidad</em>, así como la expresión emocional libre de estereotipos.</p>\n<ul>\n<li><strong>Programas de bienestar emocional:</strong></li>\n</ul>\n<p>Cada vez más presentes en los centros, esta situación de aprendizaje se alinea con actuaciones dirigidas a la promoción de la s<em>alud mental y el bienestar del alumnado.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn8ox7rf-qcu7gyxp4</odePageId>
+  <odeParentPageId>page-mn8ox7qs-dxb14780b</odeParentPageId>
+  <pageName>5. Actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rf-qcu7gyxp4</odePageId>
+      <odeBlockId>block-1774434143514-q5hbh8crt</odeBlockId>
+      <blockName>Principales</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rf-qcu7gyxp4</odePageId>
+          <odeBlockId>block-1774434143514-q5hbh8crt</odeBlockId>
+          <odeIdeviceId>idevice-1774434143509-szjhmloyq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Mi emoción del día</strong></p>
+<p>Objetivo: Reconocer emociones<br />Actividad: Elegir una emoción y explicar cómo se sienten</p>
+<p><strong>2. Mi horario visual</strong></p>
+<p>Objetivo: Organizar el tiempo<br />Actividad: Crear un horario con iconos</p>
+<p><strong>3. Podcast: "Mi consejo"</strong></p>
+<p>Objetivo: Expresar ideas<br />Actividad: Grabar un audio corto con un consejo</p>
+<p><strong>4. Infografía: "mis trucos para sentirme bien"</strong></p>
+<p>Objetivo: Resumir información<br />Actividad: Crear una infografía con 3 ideas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774434143509-szjhmloyq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Mi emoción del día</strong></p>\n<p>Objetivo: Reconocer emociones<br />Actividad: Elegir una emoción y explicar cómo se sienten</p>\n<p><strong>2. Mi horario visual</strong></p>\n<p>Objetivo: Organizar el tiempo<br />Actividad: Crear un horario con iconos</p>\n<p><strong>3. Podcast: \"Mi consejo\"</strong></p>\n<p>Objetivo: Expresar ideas<br />Actividad: Grabar un audio corto con un consejo</p>\n<p><strong>4. Infografía: \"mis trucos para sentirme bien\"</strong></p>\n<p>Objetivo: Resumir información<br />Actividad: Crear una infografía con 3 ideas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rf-qcu7gyxp4</odePageId>
+      <odeBlockId>block-1774434364345-xgy0k6g5z</odeBlockId>
+      <blockName>Complementarias</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rf-qcu7gyxp4</odePageId>
+          <odeBlockId>block-1774434364345-xgy0k6g5z</odeBlockId>
+          <odeIdeviceId>idevice-1774434364341-rsm8xo6cf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul style="list-style-type: circle;">
+<li>Taller de emociones con el departamento de orientación</li>
+<li>Dinámicas grupales en tutoría</li>
+<li>Uso de materiales visuales y juegos emocionales</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774434364341-rsm8xo6cf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul style=\"list-style-type: circle;\">\n<li>Taller de emociones con el departamento de orientación</li>\n<li>Dinámicas grupales en tutoría</li>\n<li>Uso de materiales visuales y juegos emocionales</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn8ox7rg-jzk911yod</odePageId>
+  <odeParentPageId>page-mn8ox7qs-dxb14780b</odeParentPageId>
+  <pageName>6. Licencia y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Licencia y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Licencia y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rg-jzk911yod</odePageId>
+      <odeBlockId>block-1774434452662-c5t0hha8f</odeBlockId>
+      <blockName>Atribución y fichero de descarga</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rg-jzk911yod</odePageId>
+          <odeBlockId>block-1774434452662-c5t0hha8f</odeBlockId>
+          <odeIdeviceId>idevice-1774434452659-1xop7nla9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Licencia:</strong> Creative Commons: Reconocimiento - compartir igual 4.0.</p>
+<p><br /><strong>Enlace de descarga:</strong> Se incluirá un enlace al fichero </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774434452659-1xop7nla9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Licencia:</strong> Creative Commons: Reconocimiento - compartir igual 4.0.</p>\n<p><br /><strong>Enlace de descarga:</strong> Se incluirá un enlace al fichero </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn8ox7rg-jzk911yod</odePageId>
+      <odeBlockId>block-1774434603802-kpwzd9x1p</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn8ox7rg-jzk911yod</odePageId>
+          <odeBlockId>block-1774434603802-kpwzd9x1p</odeBlockId>
+          <odeIdeviceId>idevice-1774434603797-h6z9ucrms</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">"Conociéndome y organizándome"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sonia Iglesias Dieo</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
